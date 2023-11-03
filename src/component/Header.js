@@ -45,7 +45,7 @@ export function Header() {
                   </NavLink>
                 </li>
               </ul>
-              <NavLink className="navbar-brand mx-auto fw-bold" to="/">
+              <NavLink className="navbar-brand mx-auto fw-bold nonee" to="/">
                 Apple Mart
               </NavLink>
               <NavLink className="btn-primary btn " to="/login">

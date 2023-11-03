@@ -10,3 +10,9 @@ export const DELET_ITEM = (item) => {
         payload: item,
     }
 }
+export const RESET = (item) => {
+    return {
+        type: "RESET",
+        payload: item,
+    }
+}
